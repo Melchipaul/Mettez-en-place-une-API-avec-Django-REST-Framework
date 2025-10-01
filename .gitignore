@@ -1,0 +1,4 @@
+.django_drf
+.idea
+*.sqlite3
+__pycache__/
